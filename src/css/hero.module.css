@@ -1,0 +1,6 @@
+.container {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  background: hsl(0, 0%, 98%);
+}
